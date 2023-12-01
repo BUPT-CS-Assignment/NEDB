@@ -7,7 +7,7 @@
 
 **NEDB 是基于 `C++` 的简单数据库. 项目参考 `SQLite` 底层原理与 `InnoDB` 引擎, 实现数据库[增-删-查-改]的基本操作, 并提供控制台界面与外部接口.**
 
-**NEDB 是一个大模拟，不涉及sql语法分析，为上层课设项目 [Tiny And Pretty](https://github.com/NoUITeam/TinyAndPretty.git)搭建**
+**NEDB 是一个大模拟，不涉及sql语法分析，为上层课设项目 [Tiny And Pretty](https://github.com/BUPT-CS-Assignment/TinyAndPretty.git)搭建**
 
 ## Schedule
 
